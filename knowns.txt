@@ -1,9 +1,13 @@
 msp, airport, fly, flight
-to minneapolis, to twin cities, the city, to cities, to st paul, to st. paul, to the cities, mlps
+to minneapolis, to twin cities, the city, to cities, to the cities, mlps
+to st paul, to st. paul
 to st. olaf, to olaf, to st olaf, to campus
 to northfield
 moa,mall
 cannon falls
+edina
+macalester
+madison
 eden prairie
 apple valley
 bloomington
