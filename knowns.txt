@@ -1,4 +1,4 @@
-msp, airport, fly, flight
+msp airport, msp, airport, fly, flight
 to minneapolis, to twin cities, the city, to cities, to the cities, mlps
 to st paul, to st. paul
 to st. olaf, to olaf, to st olaf, to campus
